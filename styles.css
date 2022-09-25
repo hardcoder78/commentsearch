@@ -1,0 +1,10 @@
+body {
+	/*
+		background-color: red !important;
+	*/
+	
+	#comment_search {
+		background-color: red;
+		font-size: 25px !important;
+	}
+}
